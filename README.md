@@ -10,7 +10,7 @@ This repository contains my professional certifications related to
 ## 🎓 Data Analysis with Python – Infosys
 
 📄 **Certificate:**  
-[View Certificate (PDF)](Infosys%20Data%20Analysis%20With%20Python.pdf)
+[View Certificate (PDF)](Infosys-Data-Analysis-With-Python.pdf)
 
 **Issued by:** Infosys  
 **Skills Covered:** Python, Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA)  
